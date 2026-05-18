@@ -8,3 +8,4 @@
 Лабораторная работа №2 - https://github.com/victonaizer/parallel-programming/blob/master/lab2/report.md
 Лабораторная работа №3 - https://github.com/victonaizer/parallel-programming/blob/master/lab3/report.md
 Лабораторная работа №4 - https://github.com/victonaizer/parallel-programming/blob/master/lab4/report.md
+Лабораторная работа №5 - https://github.com/victonaizer/parallel-programming/blob/master/lab5/report.md
